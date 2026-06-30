@@ -8,7 +8,7 @@
   "server": {
     "ip": "KerimOPC-JoMY.aternos.me",
     "port": 38530,
-    "version": "",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
